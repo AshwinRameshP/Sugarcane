@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Sugarandroid</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">KUSHAAL KISAAN</string>
+    <string name="nav_header_subtitle">A Sugarcane Friendly App</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Instructions</string>
+    <string name="menu_slideshow">About Us</string>
+    <string name="instructions">Created in Users Interest:\n\n\nKindly follow the given Instructions for good results\n\n
+             1. Click the camera button at bottom right for new image.\n\n
+             2. Select images from gallery or capture a new picture\n\n
+             3. Click on process button\n
+                  </string>
+
+    <string name="home_second">Home Second</string>
+    <string name="author_1">Author 1</string>
+    <string name="author_1_des">Ashwin Ramesh P\nComputer Science and Engineering\nSapthagiri College of Engineering\n9223322335</string>
+    <string name="author_2">Author 2</string>
+    <string name="author_2_des">Bindhu M V\nComputer Science and Engineering\nSapthagiri College of Engineering\n9223322336</string>
+    <string name="author_3">Author 3</string>
+    <string name="author_3_des">Divya K\nComputer Science and Engineering\nSapthagiri College of Engineering\n9223322337</string>
+    <string name="author_4">Author 4</string>
+    <string name="author_4_des">Divij N\nComputer Science and Engineering\nSapthagiri College of Engineering\n9223322338</string>
+    <string name="sugarcane_slider">sugarcane_slider</string>
+    <string name="kindly_read_instruction_page_for_better_results">Kindly read instruction page for better results.\nHappy Sugardroiding</string>
+    <string name="large_text">large_text</string>
+    <string name="imageview">imageview</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
