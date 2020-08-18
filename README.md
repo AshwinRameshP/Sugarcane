@@ -5,7 +5,7 @@ B.E Project (2020)
 Sapthagiri college of engineering
 Devloped By Ashwin Ramesh P, Bindhu MV ,Divya and Divij N.
 
-Sugarcane Crop Support System is an android appliction built on the tensorflow lite framework to identify diseased sugrcane crops by a single click of an image. The image is the processed on the android mobile phone to obtain 'on device inference' and clasify the image as diseased or not.And provide appropriate remidies if necessary.
+Sugarcane Crop Support System is an android application built on the TensorFlow lite framework to identify diseased sugarcane crops by a single click of an image. The image is the processed on the android mobile phone to obtain 'on device inference' and classify the image as diseased or not.And provide appropriate remedies if necessary.
 
 # TO RUN THE PROJECT
 Install the apk file in an android device  from the Android App folder and follow the instructions page to use the app.
